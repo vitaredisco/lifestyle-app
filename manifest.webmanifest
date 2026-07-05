@@ -1,6 +1,6 @@
 {
-  "name": "LifeStyle — питание, тренировки, тело",
-  "short_name": "LifeStyle",
+  "name": "LifeStyleAPP — питание, тренировки, тело",
+  "short_name": "LifeStyleAPP",
   "description": "Личный трекер образа жизни: питание, тренировки, тело и вес",
   "start_url": "./index.html",
   "scope": "./",
